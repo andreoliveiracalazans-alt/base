@@ -1,0 +1,26 @@
+{
+  "materias": [
+    {
+      "id": "matematica",
+      "nome": "Matemática",
+      "sql_url": "https://raw.githubusercontent.com/andreoliveiracalazans-alt/estudaja/main/matematica-q.sql",
+      "videos": [
+        { "id": "0QZVJFOE4cE", "titulo": "Vídeo 1: Múltiplos e Divisores" },
+        { "id": "RAXp2qjhA1M", "titulo": "Vídeo 2: Critérios de Divisibilidade" },
+        { "id": "RCH48p2S0Ww", "titulo": "Vídeo 3: Números Primos e Compostos" },
+        { "id": "a59FJ3r4jYk", "titulo": "Vídeo 4: Decomposição em Fatores Primos" },
+        { "id": "TY7i69kqrsk", "titulo": "Vídeo 5: MMC e MDC" }
+      ]
+    },
+    {
+      "id": "portugues",
+      "nome": "Língua Portuguesa",
+      "sql_url": "https://raw.githubusercontent.com/andreoliveiracalazans-alt/estudaja/main/portugues-q.sql",
+      "videos": [
+        { "id": "zd8_NUqoZH4", "titulo": "Aula 1: Como Estudar Português do Zero" },
+        { "id": "k0sM0Ovooo8", "titulo": "Aula 2: Fonética e Fonologia" },
+        { "id": "R7_Tv2Cr8HE", "titulo": "Aula 3: Sílaba Tônica" }
+      ]
+    }
+  ]
+}
