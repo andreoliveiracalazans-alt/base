@@ -1,0 +1,34 @@
+{
+  "materias": [
+    {
+      "id": "historia",
+      "nome": "História",
+      "videos": [
+        {
+          "id": "a9Z1c0Z8n4E",
+          "titulo": "Grécia Antiga - Cultura, Deuses e Mitologia (6º Ano)"
+        },
+        {
+          "id": "Z6G9C9u6eW4",
+          "titulo": "Guerras Médicas e Guerra do Peloponeso"
+        },
+        {
+          "id": "v8w8a8f6YqA",
+          "titulo": "Alexandre, o Grande e o Helenismo"
+        },
+        {
+          "id": "d7k2X8m9P1L",
+          "titulo": "Roma Antiga: Monarquia e República"
+        },
+        {
+          "id": "K3m9L2q8X7w",
+          "titulo": "Crise da República e os Gladiadores em Roma"
+        },
+        {
+          "id": "b4N7v1M8q3Z",
+          "titulo": "O Império Bizantino e Constantinopla"
+        }
+      ]
+    }
+  ]
+}
